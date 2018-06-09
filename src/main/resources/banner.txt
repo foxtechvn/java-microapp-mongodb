@@ -1,0 +1,10 @@
+
+  ${AnsiColor.RED}███████╗${AnsiColor.YELLOW} ██████╗ ██╗  ██╗████████╗███████╗ ██████╗██╗  ██╗    
+  ${AnsiColor.RED}██╔════╝${AnsiColor.YELLOW}██╔═══██╗╚██╗██╔╝╚══██╔══╝██╔════╝██╔════╝██║  ██║    
+  ${AnsiColor.RED}█████╗  ${AnsiColor.YELLOW}██║   ██║ ╚███╔╝    ██║   █████╗  ██║     ███████║    
+  ${AnsiColor.RED}██╔══╝  ${AnsiColor.YELLOW}██║   ██║ ██╔██╗    ██║   ██╔══╝  ██║     ██╔══██║    
+  ${AnsiColor.RED}██║     ${AnsiColor.YELLOW}╚██████╔╝██╔╝ ██╗   ██║   ███████╗╚██████╗██║  ██║    
+  ${AnsiColor.RED}╚═╝     ${AnsiColor.YELLOW} ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝    
+
+${AnsiColor.BRIGHT_BLUE}:: JHipster 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: https://foxtech.soibe.vn ::${AnsiColor.DEFAULT}
